@@ -1,0 +1,6 @@
+{
+  "trial": 1,
+  "epochs": 5,
+  "kl_divergence": [0.6523, 0.5214, 0.4789, 0.4501, 0.4312],
+  "notes": "KL divergence decreases steadily; model begins to align with target distributions."
+}
